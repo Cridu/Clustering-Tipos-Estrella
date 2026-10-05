@@ -29,11 +29,6 @@ El flujo de trabajo seguido en el notebook es:
 | `Color` | Color observado de la estrella |
 | `Spectral_Class` | Clase espectral (O, B, A, F, G, K, M) |
 
-El enunciado completo de la práctica está en `Practica2_enunciado_v2.pdf`.
-
-## Semilla
-
-Se fija la semilla aleatoria con el NIA del autor (100522196) en todas las etapas con componente aleatoria (PCA, K-Means, `random.seed`), para que los resultados sean reproducibles.
 
 ## Estructura del repositorio
 
@@ -60,5 +55,4 @@ jupyter notebook notebook.ipynb
 ```
 
 ## Autor
-
-Cristian Dulugeac — NIA 100522196
+Cristian Dulugeac
